@@ -1,0 +1,8 @@
+jupyter
+pandas
+future
+numpy
+scipy
+sklearn
+Pillow
+pytest

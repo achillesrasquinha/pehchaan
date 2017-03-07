@@ -1,0 +1,8 @@
+# virtualenvs
+.venv
+
+# IPython
+# checkpoints
+notebooks/.ipynb_checkpoints
+# data
+notebooks/data
