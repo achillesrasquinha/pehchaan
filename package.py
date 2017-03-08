@@ -13,7 +13,10 @@ maintainers       = [
 ]
 license           = 'Apache 2.0'
 modules           = [
-    'pehchaan'
+    'pehchaan',
+    'pehchaan.config',
+    'pehchaan._util',
+    'pehchaan.data',
 ]
 homepage          = 'https://achillesrasquinha.github.io/pehchaan'
 github_username   = 'achillesrasquinha'
